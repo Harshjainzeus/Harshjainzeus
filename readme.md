@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Jain</h1>
 <h3 align="center">A Software Developer making Real World Contributions</h3>
-<img align="right" alt="jibli art" width="400" src="https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/82cdab90-72fc-4fc1-8a99-97757fcb9543.png" />
-<p align="left"> <img src="https://github.com/Harshjainzeus/Harshjainzeus/blob/main/generated-image.png" alt="harshjainzeus" /> </p>
+<img align="right" alt="jibli art" width="400" src="https://github.com/Harshjainzeus/Harshjainzeus/blob/main/generated-image.png" />
 
 - 🔭 I’m currently working on [Banjara Suitings](https://www.banjarasuitings.com/)
 
