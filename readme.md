@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Harshjainzeus/Harshjainzeus/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Harsh Jain</h1>
 <h3 align="center">A Software Developer making Real World Contributions</h3>
 <img align="right" alt="jibli art" width="200" height="300" src="https://github.com/Harshjainzeus/Harshjainzeus/blob/main/gif.gif" />
