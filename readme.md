@@ -1,4 +1,4 @@
-![logo](https://github.com/Harshjainzeus/Harshjainzeus/blob/main/WhatsApp%20Image%202025-09-05%20at%2003.40.13.jpeg)
+![logo](https://github.com/Harshjainzeus/Harshjainzeus/blob/main/banner2.jpeg)
 <h1 align="center">Hi 👋, I'm Harsh Jain</h1>
 <h3 align="center">A Software Developer making Real World Contributions</h3>
 <img align="right" alt="jibli art" width="200" height="300" src="https://github.com/Harshjainzeus/Harshjainzeus/blob/main/gif2-unscreen.gif" />
